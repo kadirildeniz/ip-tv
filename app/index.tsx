@@ -18,7 +18,7 @@ export default function HomeScreen() {
           <Text style={styles.textDescription}>
           +39842 Dizi, +1000 Film ve izleyebileceğiniz yüzlerce içerik ile sizlerleyiz.
           </Text>
-          <CardComponent title="Canlı TV" description="3000 Kanal" image={require('@/assets/images/tv.png')} />
+          <CardComponent title="Can lı TV" description="3000 Kanal" image={require('@/assets/images/tv.png')} />
           <CardComponent title="Filmler" description="1000 Film" image={require('@/assets/images/film-rulo.png')} />
           <CardComponent title="Diziler" description="1000 Film" image={require('@/assets/images/tv-start.png')} />
         </ScrollView>
